@@ -1,7 +1,7 @@
 {
-  "name": "react-session1",
+  "name": "react-webpack",
   "version": "1.0.0",
-  "description": "react session1",
+  "description": "react-webpack",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,8 +17,6 @@
     "babel-preset-react": "^6.22.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "react-hot-loader": "^1.3.1",
-    "webpack": "^2.2.1",
-    "webpack-dev-server": "^2.4.1"
+    "webpack": "^2.2.1"
   }
 }
